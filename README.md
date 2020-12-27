@@ -1,2 +1,2 @@
 # DailyByteQuestions
-Daily questions provided by https://thedailybyte.dev website
+Solutions to daily questions provided by https://thedailybyte.dev website
